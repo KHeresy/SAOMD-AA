@@ -432,6 +432,15 @@
     "status": "exist"
   },
   {
+    "id": "20200307",
+    "title": "舉行慶祝直播登入獎勵活動!!",
+    "adate": "2020-03-07",
+    "cdate": "2020-03-06 23:07:11",
+    "udate": "2020-03-06 23:07:11",
+    "status": "new",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200307&phone_type=2&lang=tc"
+  },
+  {
     "id": "20200308",
     "title": "公會使命的異常",
     "adate": "2020-03-03",
@@ -454,7 +463,7 @@
     "adate": "2020-03-05",
     "cdate": "2020-03-06 17:27:29",
     "udate": "2020-03-06 17:27:29",
-    "status": "new",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200310&phone_type=2&lang=tc"
   },
   {
@@ -463,7 +472,7 @@
     "adate": "2020-03-06",
     "cdate": "2020-03-06 17:27:29",
     "udate": "2020-03-06 17:27:29",
-    "status": "new",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200316&phone_type=2&lang=tc"
   },
   {
