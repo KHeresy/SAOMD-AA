@@ -196,7 +196,7 @@
     "adate": "2020-03-09",
     "cdate": "2020-03-09 14:06:56",
     "udate": "2020-03-09 14:06:56",
-    "status": "new",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=455502&phone_type=2&lang=tc"
   },
   {
@@ -406,8 +406,8 @@
     "title": "APP Ver 1.40.3發布之公告",
     "adate": "2020-02-17",
     "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "3/3/2020, 10:52:19 PM",
-    "status": "exist"
+    "udate": "2020-03-09 18:07:09",
+    "status": "removed"
   },
   {
     "id": "20200220",
@@ -492,6 +492,15 @@
     "udate": "2020-03-06 17:27:29",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200316&phone_type=2&lang=tc"
+  },
+  {
+    "id": "20200318",
+    "title": "APP Ver 1.41.1發布之公告",
+    "adate": "2020-03-09",
+    "cdate": "2020-03-09 18:07:09",
+    "udate": "2020-03-09 18:07:09",
+    "status": "new",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200318&phone_type=2&lang=tc"
   },
   {
     "id": "20209901",
