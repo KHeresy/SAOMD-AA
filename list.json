@@ -4,15 +4,7 @@
     "title": "舉行「VR世界的詭騙師」武器購買!!",
     "adate": "2020-02-29",
     "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "exist"
-  },
-  {
-    "id": "12541",
-    "title": "舉行「持有反抗意志的人」武器購買!!",
-    "adate": "2020-02-17",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
+    "udate": "2020-03-10 23:41:33",
     "status": "removed"
   },
   {
@@ -41,39 +33,6 @@
     "status": "exist"
   },
   {
-    "id": "22211",
-    "title": "舉行「VR世界的詭騙師」招募!!",
-    "adate": "2020-02-29",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
-    "id": "22212",
-    "title": "桐人、詩乃命中率UP",
-    "adate": "2020-03-03",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-05 23:12:35",
-    "status": "removed"
-  },
-  {
-    "id": "22213",
-    "title": "亞絲娜、愛麗絲命中率UP",
-    "adate": "2020-03-05",
-    "cdate": "2020-03-05 23:12:35",
-    "udate": "2020-03-07 14:07:30",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22213&phone_type=2&lang=tc"
-  },
-  {
-    "id": "22541",
-    "title": "舉行保證★6階段招募「持有反抗意志的人」!!",
-    "adate": "2020-02-17",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
     "id": "22561",
     "title": "舉行一夜致富!?魅惑的兔女郎 招募!!",
     "adate": "2020-03-06",
@@ -81,15 +40,6 @@
     "udate": "2020-03-06 14:02:58",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22561&phone_type=2&lang=tc"
-  },
-  {
-    "id": "22569",
-    "title": "【預告】舉行一夜致富!?魅惑的兔女郎 招募!!",
-    "adate": "2020-03-05",
-    "cdate": "2020-03-05 23:12:35",
-    "udate": "2020-03-06 14:02:58",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22569&phone_type=2&lang=tc"
   },
   {
     "id": "22571",
@@ -145,69 +95,12 @@
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=182301&phone_type=2&lang=tc"
   },
   {
-    "id": "22591",
-    "title": "舉行1天1次免費招募「VR世界的詭騙師」!!",
-    "adate": "2020-02-29",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
-    "id": "110343",
-    "title": "【更新】蝴蝶結黃金獎章招募舉行中!",
-    "adate": "2020-01-31",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
-    "id": "110353",
-    "title": "【更新】怪盜團黃金獎章招募舉行中!",
-    "adate": "2020-02-17",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
-    "id": "110363",
-    "title": "畢業證書黃金獎章招募舉行中!",
-    "adate": "2020-03-06",
-    "cdate": "2020-03-06 14:02:58",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=110363&phone_type=2&lang=tc"
-  },
-  {
-    "id": "172301",
-    "title": "最多免費11連抽!!尋寶招募!!",
-    "adate": "2020-01-05",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
-    "id": "182301",
-    "title": "最多免費11連抽!!尋寶武器購買!!",
-    "adate": "2020-01-05",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
     "id": "409101",
     "title": "【更新】復刻!!多人組隊活動「嗨 矮小的我」",
     "adate": "2018-11-29",
     "cdate": "3/3/2020, 10:52:19 PM",
     "udate": "3/3/2020, 10:52:19 PM",
     "status": "exist"
-  },
-  {
-    "id": "417001",
-    "title": "舉行排名戰「扭曲的皇帝和幻影騎士團  後篇」!!",
-    "adate": "2020-02-29",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
   },
   {
     "id": "417201",
@@ -217,15 +110,6 @@
     "udate": "2020-03-06 14:02:58",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=417201&phone_type=2&lang=tc"
-  },
-  {
-    "id": "417202",
-    "title": "【預告】舉行多人組隊活動!!",
-    "adate": "2020-03-05",
-    "cdate": "2020-03-05 23:12:35",
-    "udate": "2020-03-06 14:02:58",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=417202&phone_type=2&lang=tc"
   },
   {
     "id": "455401",
@@ -245,15 +129,6 @@
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=455501&phone_type=2&lang=tc"
   },
   {
-    "id": "455502",
-    "title": "【預告】舉行「訓練活動」!!",
-    "adate": "2020-03-09",
-    "cdate": "2020-03-09 14:06:56",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=455502&phone_type=2&lang=tc"
-  },
-  {
     "id": "485109",
     "title": "舉行階層攻略戰!",
     "adate": "2020-03-07",
@@ -261,23 +136,6 @@
     "udate": "2020-03-07 14:07:30",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=485109&phone_type=2&lang=tc"
-  },
-  {
-    "id": "485110",
-    "title": "【預告】舉行階層攻略戰!",
-    "adate": "2020-03-06",
-    "cdate": "2020-03-06 14:02:58",
-    "udate": "2020-03-07 14:07:30",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=485110&phone_type=2&lang=tc"
-  },
-  {
-    "id": "485309",
-    "title": "舉行階層攻略戰!",
-    "adate": "2020-02-07",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-07 14:07:30",
-    "status": "removed"
   },
   {
     "id": "702602",
@@ -294,14 +152,6 @@
     "cdate": "3/3/2020, 10:52:19 PM",
     "udate": "3/3/2020, 10:52:19 PM",
     "status": "exist"
-  },
-  {
-    "id": "808601",
-    "title": "【更新】舉行「聯名P5R特別裝備交換活動」!!",
-    "adate": "2020-02-17",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
   },
   {
     "id": "905001",
@@ -449,44 +299,12 @@
     "status": "exist"
   },
   {
-    "id": "20200210",
-    "title": "慶祝聯名P5R套組登場!!",
-    "adate": "2020-02-17",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
     "id": "20200214",
     "title": "關於不當行為的應對方式",
     "adate": "2020-02-10",
     "cdate": "3/3/2020, 10:52:19 PM",
     "udate": "3/3/2020, 10:52:19 PM",
     "status": "exist"
-  },
-  {
-    "id": "20200219",
-    "title": "APP Ver 1.40.3發布之公告",
-    "adate": "2020-02-17",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-09 18:07:09",
-    "status": "removed"
-  },
-  {
-    "id": "20200220",
-    "title": "慶祝聯名女神異聞錄5R!! 附有全能解放聖晶石套組登場!!",
-    "adate": "2020-02-29",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
-  },
-  {
-    "id": "20200221",
-    "title": "鑽石增量特別活動!!",
-    "adate": "2020-02-29",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
   },
   {
     "id": "20200223",
@@ -503,14 +321,6 @@
     "cdate": "3/3/2020, 10:52:19 PM",
     "udate": "3/3/2020, 10:52:19 PM",
     "status": "exist"
-  },
-  {
-    "id": "20200226",
-    "title": "舉行慶祝聯名女神異聞錄5R特別活動!!",
-    "adate": "2020-02-29",
-    "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed"
   },
   {
     "id": "20200307",
@@ -539,21 +349,12 @@
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200309&phone_type=2&lang=tc"
   },
   {
-    "id": "20200310",
-    "title": "舉行頭目討伐特別活動!!",
-    "adate": "2020-03-05",
-    "cdate": "2020-03-06 17:27:29",
-    "udate": "2020-03-10 14:06:54",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200310&phone_type=2&lang=tc"
-  },
-  {
     "id": "20200316",
     "title": "【更新】無法顯示部分圖像的異常",
     "adate": "2020-03-06",
     "cdate": "2020-03-06 17:27:29",
     "udate": "2020-03-10 18:07:07",
-    "status": "updated",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200316&phone_type=2&lang=tc"
   },
   {
