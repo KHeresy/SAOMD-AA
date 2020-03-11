@@ -2,10 +2,13 @@
 <html lang="zh-TW">
 <head>
     <meta charset="utf-8">
+    <title>SAO:MD 公告更新紀錄</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script>
         $(document).ready(function () {
-            $.getJSON("https://kheresy.github.io/SAOMD-AA/changelog.json").done(function (data) {
+            $.getJSON("changelog.json").done(function (data) {
                 let liChangelog = $("#changelog")
                 data.reverse().forEach(function (itemSet) {
                     let liDate = $("<li />");
@@ -40,7 +43,7 @@
     <p align="center"><a href="https://api-defrag-ap.wrightflyer.net/webview/announcement?phone_type=2&amp;lang=tc" target="_blank">原始公告網站</a> | <a href="https://ksaomd.wordpress.com/">我的網站</a></p>
     <ul id="changelog"></ul>
     <footer>
-        <p align="center"><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkheresy.github.io%2FSAOMD-AA%2Fchangelog.html" alt="Hits"></p>
+        <p align="center">Version 0.3 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkheresy.github.io%2FSAOMD-AA%2Fchangelog.html" alt="Hits"></p>
     </footer>
 </body>
 </html>

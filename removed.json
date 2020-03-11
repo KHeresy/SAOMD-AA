@@ -205,5 +205,14 @@
     "cdate": "3/3/2020, 10:52:19 PM",
     "udate": "2020-03-10 23:41:33",
     "status": "removed"
+  },
+  {
+    "id": "110343",
+    "title": "【更新】蝴蝶結黃金獎章招募舉行中!",
+    "adate": "2020-01-31",
+    "cdate": "2020-03-10 14:06:54",
+    "udate": "2020-03-11 14:06:57",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=110343&phone_type=2&lang=tc"
   }
 ]
