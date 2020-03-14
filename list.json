@@ -39,8 +39,8 @@
     "title": "【更新】舉行HP回復精選招募!!",
     "adate": "2019-09-16",
     "cdate": "3/3/2020, 10:52:19 PM",
-    "udate": "3/3/2020, 10:52:19 PM",
-    "status": "exist"
+    "udate": "2020-03-14 14:08:22",
+    "status": "removed"
   },
   {
     "id": "22361",
@@ -351,15 +351,6 @@
     "udate": "2020-03-13 14:06:49",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200301&phone_type=2&lang=tc"
-  },
-  {
-    "id": "20200307",
-    "title": "舉行慶祝直播登入獎勵活動!!",
-    "adate": "2020-03-07",
-    "cdate": "2020-03-06 23:07:11",
-    "udate": "2020-03-13 23:07:01",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200307&phone_type=2&lang=tc"
   },
   {
     "id": "20200308",
