@@ -937,5 +937,19 @@
         "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200318&phone_type=2&lang=tc"
       }
     ]
+  },
+  {
+    "date": "2020-03-23 21:01:34",
+    "items": [
+      {
+        "id": "20209901",
+        "title": "【更新】實施角色強化＆舉行復刻活動!!",
+        "adate": "2020-01-24",
+        "cdate": "3/3/2020, 10:52:19 PM",
+        "udate": "2020-03-23 21:01:34",
+        "status": "updated",
+        "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20209901&phone_type=2&lang=tc"
+      }
+    ]
   }
 ]
