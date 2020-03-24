@@ -979,5 +979,19 @@
         "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20209904&phone_type=2&lang=tc"
       }
     ]
+  },
+  {
+    "date": "2020-03-24 15:01:26",
+    "items": [
+      {
+        "id": "22589",
+        "title": "【預告】舉行火／土屬性交錯技能 精選招募!!",
+        "adate": "2020-03-24",
+        "cdate": "2020-03-24 15:01:26",
+        "udate": "2020-03-24 15:01:26",
+        "status": "new",
+        "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22589&phone_type=2&lang=tc"
+      }
+    ]
   }
 ]
