@@ -409,5 +409,59 @@
     "udate": "2020-03-24 14:01:37",
     "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20209904&phone_type=2&lang=tc"
+  },
+  {
+    "id": "22363",
+    "title": "莉茲貝特命中率UP",
+    "adate": "2020-03-21",
+    "cdate": "2020-03-21 14:01:27",
+    "udate": "2020-03-25 14:01:28",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22363&phone_type=2&lang=tc"
+  },
+  {
+    "id": "22589",
+    "title": "【預告】舉行火／土屬性交錯技能 精選招募!!",
+    "adate": "2020-03-24",
+    "cdate": "2020-03-24 15:01:26",
+    "udate": "2020-03-25 14:01:28",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22589&phone_type=2&lang=tc"
+  },
+  {
+    "id": "417101",
+    "title": "舉行排名戰「天獄尼伯龍根 ～昇華～」!!",
+    "adate": "2020-03-13",
+    "cdate": "2020-03-13 14:06:49",
+    "udate": "2020-03-25 14:01:28",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=417101&phone_type=2&lang=tc"
+  },
+  {
+    "id": "455501",
+    "title": "舉行「訓練活動」!!",
+    "adate": "2020-03-10",
+    "cdate": "2020-03-10 14:06:54",
+    "udate": "2020-03-25 14:01:28",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=455501&phone_type=2&lang=tc"
+  },
+  {
+    "id": "491103",
+    "title": "【預告】舉行公會對戰活動!!",
+    "adate": "2020-03-18",
+    "cdate": "2020-03-18 14:07:04",
+    "udate": "2020-03-25 14:01:28",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=491103&phone_type=2&lang=tc"
+  },
+  {
+    "id": "20200322",
+    "title": "舉行慶祝新增主線故事登入獎勵活動!!",
+    "adate": "2020-03-19",
+    "cdate": "2020-03-19 15:01:43",
+    "udate": "2020-03-25 14:01:28",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200322&phone_type=2&lang=tc"
   }
 ]
