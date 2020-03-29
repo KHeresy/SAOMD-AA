@@ -57,8 +57,8 @@
     "title": "直葉命中率UP",
     "adate": "2020-03-22",
     "cdate": "2020-03-22 14:01:31",
-    "udate": "2020-03-22 14:01:31",
-    "status": "exist",
+    "udate": "2020-03-29 14:01:29",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22563&phone_type=2&lang=tc"
   },
   {
@@ -182,6 +182,15 @@
     "udate": "2020-03-12 14:06:55",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=808701&phone_type=2&lang=tc"
+  },
+  {
+    "id": "808802",
+    "title": "【預告】舉行裝備交換活動!",
+    "adate": "2020-03-29",
+    "cdate": "2020-03-29 14:01:29",
+    "udate": "2020-03-29 14:01:29",
+    "status": "new",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=808802&phone_type=2&lang=tc"
   },
   {
     "id": "905001",
@@ -415,7 +424,7 @@
     "adate": "2020-01-24",
     "cdate": "3/3/2020, 10:52:19 PM",
     "udate": "2020-03-27 19:01:40",
-    "status": "updated",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20209901&phone_type=2&lang=tc"
   }
 ]
