@@ -53,15 +53,6 @@
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22561&phone_type=2&lang=tc"
   },
   {
-    "id": "22563",
-    "title": "直葉命中率UP",
-    "adate": "2020-03-22",
-    "cdate": "2020-03-22 14:01:31",
-    "udate": "2020-03-29 14:01:29",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22563&phone_type=2&lang=tc"
-  },
-  {
     "id": "22581",
     "title": "舉行火／土屬性交錯技能 精選招募!!",
     "adate": "2020-03-25",
@@ -78,6 +69,15 @@
     "udate": "2020-03-13 14:06:49",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22601&phone_type=2&lang=tc"
+  },
+  {
+    "id": "22619",
+    "title": "【預告】舉行夢境城鎮的美麗強敵 ～前篇～招募!!",
+    "adate": "2020-03-30",
+    "cdate": "2020-03-30 14:01:33",
+    "udate": "2020-03-30 14:01:33",
+    "status": "new",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22619&phone_type=2&lang=tc"
   },
   {
     "id": "22621",
@@ -179,17 +179,26 @@
     "title": "舉行裝備交換活動「深淵的古林肯比」!",
     "adate": "2020-03-12",
     "cdate": "2020-03-12 14:06:55",
-    "udate": "2020-03-12 14:06:55",
-    "status": "exist",
+    "udate": "2020-03-30 14:01:33",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=808701&phone_type=2&lang=tc"
+  },
+  {
+    "id": "808801",
+    "title": "舉行裝備交換活動「疾風的旋風使鎚者」!",
+    "adate": "2020-03-30",
+    "cdate": "2020-03-30 14:01:33",
+    "udate": "2020-03-30 14:01:33",
+    "status": "new",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=808801&phone_type=2&lang=tc"
   },
   {
     "id": "808802",
     "title": "【預告】舉行裝備交換活動!",
     "adate": "2020-03-29",
     "cdate": "2020-03-29 14:01:29",
-    "udate": "2020-03-29 14:01:29",
-    "status": "new",
+    "udate": "2020-03-30 14:01:33",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=808802&phone_type=2&lang=tc"
   },
   {
@@ -405,8 +414,8 @@
     "title": "鑽石增量特別活動!!",
     "adate": "2020-03-25",
     "cdate": "2020-03-25 14:01:28",
-    "udate": "2020-03-25 14:01:28",
-    "status": "exist",
+    "udate": "2020-03-30 14:01:33",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200329&phone_type=2&lang=tc"
   },
   {
