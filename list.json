@@ -1,14 +1,5 @@
 [
   {
-    "id": "12601",
-    "title": "舉行「聖屬性精選」武器購買!!",
-    "adate": "2020-03-13",
-    "cdate": "2020-03-13 14:06:49",
-    "udate": "2020-04-03 14:01:27",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=12601&phone_type=2&lang=tc"
-  },
-  {
     "id": "12611",
     "title": "舉行「夢境城鎮的美麗強敵 ～前篇～」武器購買!!",
     "adate": "2020-03-31",
@@ -35,15 +26,6 @@
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22581&phone_type=2&lang=tc"
   },
   {
-    "id": "22601",
-    "title": "舉行聖屬性精選招募!!",
-    "adate": "2020-03-13",
-    "cdate": "2020-03-13 14:06:49",
-    "udate": "2020-04-03 14:01:27",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22601&phone_type=2&lang=tc"
-  },
-  {
     "id": "22611",
     "title": "舉行「夢境城鎮的美麗強敵 ～前篇～」招募!!",
     "adate": "2020-03-31",
@@ -51,6 +33,15 @@
     "udate": "2020-03-31 14:01:28",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22611&phone_type=2&lang=tc"
+  },
+  {
+    "id": "22613",
+    "title": "愛麗絲命中率UP",
+    "adate": "2020-04-04",
+    "cdate": "2020-04-04 14:01:25",
+    "udate": "2020-04-04 14:01:25",
+    "status": "new",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22613&phone_type=2&lang=tc"
   },
   {
     "id": "22621",
@@ -398,7 +389,7 @@
     "adate": "2020-04-03",
     "cdate": "2020-04-03 14:01:27",
     "udate": "2020-04-03 14:01:27",
-    "status": "new",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200334&phone_type=2&lang=tc"
   },
   {
