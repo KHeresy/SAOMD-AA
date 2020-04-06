@@ -388,8 +388,8 @@
     "title": "菲莉亞生日快樂!!",
     "adate": "2020-03-31",
     "cdate": "2020-03-30 23:01:36",
-    "udate": "2020-03-30 23:01:36",
-    "status": "exist",
+    "udate": "2020-04-06 23:01:35",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200306&phone_type=2&lang=tc"
   },
   {
@@ -433,8 +433,8 @@
     "title": "舉行強化培育特別活動!!",
     "adate": "2020-04-03",
     "cdate": "2020-04-03 14:01:27",
-    "udate": "2020-04-03 14:01:27",
-    "status": "exist",
+    "udate": "2020-04-06 23:01:35",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200334&phone_type=2&lang=tc"
   },
   {
@@ -443,7 +443,7 @@
     "adate": "2020-04-06",
     "cdate": "2020-04-06 21:01:30",
     "udate": "2020-04-06 21:01:30",
-    "status": "new",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200402&phone_type=2&lang=tc"
   },
   {
