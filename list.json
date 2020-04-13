@@ -76,7 +76,7 @@
     "adate": "2020-04-10",
     "cdate": "2020-04-09 23:01:46",
     "udate": "2020-04-13 00:01:34",
-    "status": "updated",
+    "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=26251&phone_type=2&lang=tc"
   },
   {
@@ -154,8 +154,8 @@
     "title": "舉行公會對戰活動「牢固古城的騎士」!!",
     "adate": "2020-03-25",
     "cdate": "2020-03-25 14:01:28",
-    "udate": "2020-03-25 14:01:28",
-    "status": "exist",
+    "udate": "2020-04-13 14:01:36",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=491101&phone_type=2&lang=tc"
   },
   {
@@ -182,6 +182,15 @@
     "udate": "2020-03-30 14:01:33",
     "status": "exist",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=808801&phone_type=2&lang=tc"
+  },
+  {
+    "id": "808902",
+    "title": "【預告】舉行裝備交換活動!",
+    "adate": "2020-04-13",
+    "cdate": "2020-04-13 14:01:36",
+    "udate": "2020-04-13 14:01:36",
+    "status": "new",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=808902&phone_type=2&lang=tc"
   },
   {
     "id": "905001",
