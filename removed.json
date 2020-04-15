@@ -821,5 +821,14 @@
     "udate": "2020-04-14 23:01:45",
     "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200324&phone_type=2&lang=tc"
+  },
+  {
+    "id": "20200111",
+    "title": "活動裝備的戰鬥技能效果之顯示異常",
+    "adate": "2020-01-31",
+    "cdate": "3/3/2020, 10:52:19 PM",
+    "udate": "2020-04-15 14:01:28",
+    "status": "removed",
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200111&phone_type=2&lang=tc"
   }
 ]
