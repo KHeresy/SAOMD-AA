@@ -2493,5 +2493,18 @@
         "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=26261&phone_type=2&lang=tc"
       }
     ]
+  },
+  {
+    "date": "2020-04-22 20:15:59",
+    "items": [
+      {
+        "id": "20191201",
+        "title": "APP Ver 1.39.5發布之公告",
+        "adate": "2019-12-04",
+        "cdate": "3/3/2020, 10:52:19 PM",
+        "udate": "2020-04-22 20:15:59",
+        "status": "removed"
+      }
+    ]
   }
 ]
