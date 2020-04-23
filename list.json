@@ -80,20 +80,27 @@
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22651&phone_type=2&lang=tc"
   },
   {
-    "id": "22652",
-    "title": "有紀命中率UP",
-    "adate": "2020-04-20",
-    "cdate": "2020-04-20 14:01:18",
-    "udate": "2020-04-23 14:01:26",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=22652&phone_type=2&lang=tc"
-  },
-  {
     "id": "22653",
     "title": "莉茲貝特命中率UP",
     "adate": "2020-04-23",
     "cdate": "2020-04-23 14:01:26",
     "udate": "2020-04-23 14:01:26",
+    "status": "exist"
+  },
+  {
+    "id": "22669",
+    "title": "【預告】舉行保證★6階段招募「降臨戰地的女神～太陽神索魯斯～」!!",
+    "adate": "2020-04-23",
+    "cdate": "2020-04-23 15:01:18",
+    "udate": "2020-04-23 15:01:18",
+    "status": "new"
+  },
+  {
+    "id": "22679",
+    "title": "【預告】舉行保證★6階段招募「降臨戰地的女神～地神提拉利亞～」!!",
+    "adate": "2020-04-23",
+    "cdate": "2020-04-23 15:01:18",
+    "udate": "2020-04-23 15:01:18",
     "status": "new"
   },
   {
@@ -173,7 +180,7 @@
     "adate": "2020-04-23",
     "cdate": "2020-04-23 14:01:26",
     "udate": "2020-04-23 14:01:26",
-    "status": "new"
+    "status": "exist"
   },
   {
     "id": "455401",
@@ -470,15 +477,6 @@
     "adate": "2020-01-24",
     "cdate": "3/3/2020, 10:52:19 PM",
     "udate": "2020-04-23 14:01:26",
-    "status": "updated"
-  },
-  {
-    "id": "20209905",
-    "title": "追加強化角色＆復刻活動!!",
-    "adate": "2020-04-21",
-    "cdate": "2020-04-21 14:01:35",
-    "udate": "2020-04-23 14:01:26",
-    "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20209905&phone_type=2&lang=tc"
+    "status": "exist"
   }
 ]
