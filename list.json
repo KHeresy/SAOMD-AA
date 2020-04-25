@@ -133,8 +133,8 @@
     "title": "舉行慶祝莉法生日招募!!",
     "adate": "2020-04-19",
     "cdate": "2020-04-18 23:01:35",
-    "udate": "2020-04-22 14:01:27",
-    "status": "exist",
+    "udate": "2020-04-25 23:01:27",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=26261&phone_type=2&lang=tc"
   },
   {
@@ -411,8 +411,8 @@
     "title": "莉法生日快樂!!",
     "adate": "2020-04-19",
     "cdate": "2020-04-18 23:01:35",
-    "udate": "2020-04-18 23:01:35",
-    "status": "exist",
+    "udate": "2020-04-25 23:01:27",
+    "status": "removed",
     "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200327&phone_type=2&lang=tc"
   },
   {
@@ -438,18 +438,9 @@
     "title": "舉行春天的特別登入獎勵活動!!",
     "adate": "2020-04-11",
     "cdate": "2020-04-10 23:01:54",
-    "udate": "2020-04-10 23:01:54",
-    "status": "exist",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200401&phone_type=2&lang=tc"
-  },
-  {
-    "id": "20200404",
-    "title": "鑽石增量特別活動!!",
-    "adate": "2020-04-17",
-    "cdate": "2020-04-17 14:01:28",
-    "udate": "2020-04-25 14:01:17",
+    "udate": "2020-04-25 23:01:27",
     "status": "removed",
-    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200404&phone_type=2&lang=tc"
+    "link": "https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=20200401&phone_type=2&lang=tc"
   },
   {
     "id": "20200409",
