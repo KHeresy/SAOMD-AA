@@ -1,49 +1,69 @@
 ﻿<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-    <meta charset="utf-8">
-    <title>SAO:MD 公告更新紀錄</title>
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-    <script>
-        $(document).ready(function () {
-            $.getJSON("changelog.json").done(function (data) {
-                let liChangelog = $("#changelog")
-                data.reverse().forEach(function (itemSet) {
-                    let liDate = $("<li />");
-                    liDate.append(itemSet.date);
-                    liDate.appendTo(liChangelog);
-                    liDateList = $("<ul />");
-                    liDateList.appendTo(liDate);
+	<meta charset="utf-8">
+	<title>SAO:MD 公告更新紀錄</title>
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script>
+		function loadLog(jsonFile) {
+			$.getJSON(jsonFile).done(function (data) {
+				let liChangelog = $("#changelog")
+				liChangelog.empty();
+				data.reverse().forEach(function (itemSet) {
+					let liDate = $("<li />");
+					liDate.append(itemSet.date);
+					liDate.appendTo(liChangelog);
+					liDateList = $("<ul />");
+					liDateList.appendTo(liDate);
 
-                    itemSet.items.forEach(function (item) {
-                        let liItem = $("<li />");
-                        if (item.status == "removed") {
-                            liItem.append("[移除] " + item.title);
-                        }
-                        else {
-                            if (item.cdate == item.udate) {
-                                liItem.append("[新增] ");
-                            }
-                            else {
-                                liItem.append("[更新] ");
-                            }
-                            liItem.append("<a href=https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=" + item.id + "&phone_type=2&lang=tc target=_blank>" + item.title + "</a>");
-                        }
-                        liItem.appendTo(liDateList);
-                    });
-                });
-            });
-        });
-    </script>
+					itemSet.items.forEach(function (item) {
+						let liItem = $("<li />");
+						if (item.status == "removed") {
+							liItem.append("[移除] " + item.title);
+						}
+						else {
+							if (item.cdate == item.udate) {
+								liItem.append("<font color=red>[新增]</font> ");
+							}
+							else {
+								liItem.append("<font color=green>[更新]</font> ");
+							}
+							liItem.append("<a href=https://api-defrag-ap.wrightflyer.net/webview/announcement-detail?id=" + item.id + "&phone_type=2&lang=tc target=_blank>" + item.title + "</a>");
+						}
+						liItem.appendTo(liDateList);
+					});
+				});
+			});
+
+		}
+
+		loadLog("changelog.json");
+
+		$(document).ready(function () {
+			$.getJSON("archive.json").done(function (data) {
+				let selOption = $("#archive");
+				selOption.change(function() {
+					loadLog($(this).val());
+				});
+
+				selOption.append("<option value='changelog.json'>lastest</option>");
+				data["list"].reverse().forEach(function (itemSet) {
+					selOption.append("<option value='./archive/" + itemSet + "'>" + itemSet.substr(0,7) + "</option>");
+				});
+			});
+		});
+	</script>
 </head>
 <body>
-    <h3 align="center">SAO:MD 公告更新紀錄</h3>
-    <p align="center"><a href="https://api-defrag-ap.wrightflyer.net/webview/announcement?phone_type=2&amp;lang=tc" target="_blank">原始公告網站</a> | <a href="https://ksaomd.wordpress.com/">我的網站</a></p>
-    <ul id="changelog"></ul>
-    <footer>
-        <p align="center">Version 0.3 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkheresy.github.io%2FSAOMD-AA%2Fchangelog.html" alt="Hits"></p>
-    </footer>
+	<h3 align="center">SAO:MD 公告更新紀錄</h3>
+	<p align="center">
+		<a href="https://api-defrag-ap.wrightflyer.net/webview/announcement?phone_type=2&amp;lang=tc" target="_blank">原始公告網站</a> | 
+		<a href="https://ksaomd.wordpress.com/">我的網站</a> | 
+		<select id="archive"></select> | 
+		Ver 0.4</p>
+	<ul id="changelog"></ul>
+	<footer><p align="center"><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkheresy.github.io%2FSAOMD-AA%2Fchangelog.html" alt="Hits"></p></footer>
 </body>
 </html>
